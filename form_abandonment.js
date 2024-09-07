@@ -8,7 +8,7 @@
             var lastField = it.history[it.history.length - 1].name;
             var lastFieldType = it.history[it.history.length - 1].type;
             window.dataLayer.push({
-                'event': 'form_abandoned',
+                'event': window.fat_event_name,
                 'form': it.name,
                 'dropped_at_field_name': lastField,
                 'dropped_at_field_type': lastFieldType
