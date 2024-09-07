@@ -1,5 +1,5 @@
 homepage: "https://gtmcamp.com"
 documentation: "https://gtmcamp.com/documentation"
 versions:
-  - sha: 304544db065687d70a63dc2b12f77505193fd07e
+  - sha: e16c50e309de918ef1ebb11a868ab68dd213222d
     changeNotes: metadata commit.
